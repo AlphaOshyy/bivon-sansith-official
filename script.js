@@ -1,3 +1,5 @@
+const enhancement=document.createElement('link');enhancement.rel='stylesheet';enhancement.href='enhancements.css';document.head.appendChild(enhancement);
+
 const loader=document.getElementById('loader');
 const cursorDot=document.querySelector('.cursor-dot');
 const cursorRing=document.querySelector('.cursor-ring');

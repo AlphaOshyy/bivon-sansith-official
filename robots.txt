@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alphaoshyy.github.io/bivon-sansith-official/sitemap.xml
